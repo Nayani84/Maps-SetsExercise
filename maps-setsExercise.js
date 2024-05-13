@@ -6,7 +6,7 @@ new Set([1, 1, 2, 2, 3, 4])  //Set(4) {1, 2, 3, 4}
 
 // Quick Question #2
 // What does the following code return?
-[...new Set("referee")].join("")   //'ref'
+[...new Set("referee")].join("") //'ref'
 
 
 
